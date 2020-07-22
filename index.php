@@ -29,33 +29,31 @@ session_start();
 
 
 
-<!-- HTML Meta Tags -->
-    <title>Get Covid Updates</title>
-    <meta name="description" property="og:description" content="Tarun Acharya: Subscribe and get FREE updates about Covid-19 Cases including active cases, total cases, recovered cases and death cases across the Globe, India and Telangana everyday through SMS to your mobile."/>
-    <meta name="author" content="Tarun Acharya">
-    <meta name="keywords" content="Tarun Acharya,Tarun,Acharya,Kodakandla,Covid,Covid SMS,  Covidsms, 2bz, SMS ,Corono Virus, Update ,cases Telangana ,India cases,World cases, free updates">
-	<meta name="image" property="og:image" content="http://covidsms.2bz.in/images/wallpaper.jpg">
-	<meta name="title" property="og:title" content="Get Covid Updates">
+<title>Get Covid Updates</title>
+<meta name="description" content="Tarun Acharya: Subscribe and get FREE updates about Covid-19 Cases including active cases, total cases, recovered cases and death cases across the Globe, India and Telangana everyday through SMS to your mobile.">
+<meta name="author" content="Tarun Acharya">
+<meta name="image" property="og:image" content="http://covidsms.2bz.in/images/wallpaper.jpg">
 
-    <!-- Google / Search Engine Tags -->
-    <meta itemprop="name" content="Covid Updates ||Free SMS Covid || Covidsms || Tarun Acharya">
-    <meta itemprop="description" content="Tarun Acharya: Subscribe and get FREE updates about Covid-19 Cases including active cases, total cases, recovered cases and death cases across the Globe, India and Telangana everyday through SMS to your mobile.">
-    <meta itemprop="image" content="http://covidsms.2bz.in/images/wallpaper.jpg">
-    <meta name="robots" content="index, follow" />
-   
+<!-- Google / Search Engine Tags -->
+<meta itemprop="name" content="Get Covid Updates">
+<meta itemprop="description" content="Tarun Acharya: Subscribe and get FREE updates about Covid-19 Cases including active cases, total cases, recovered cases and death cases across the Globe, India and Telangana everyday through SMS to your mobile.">
+<meta itemprop="image" content="http://covidsms.2bz.in/images/wallpaper.jpg">
+<meta name="robots" content="index, follow">
 
-    <!-- Facebook Meta Tags -->
-    <meta property="og:url" content="http://covidsms.2bz.in/images/wallpaper.jpg">
-    <meta property="og:type" content="website">
-    <meta property="og:title" content="Get Covid Updates">
-    <meta property="og:description" content="Tarun Acharya: Subscribe and get FREE updates about Covid-19 Cases including active cases, total cases, recovered cases and death cases across the Globe, India and Telangana everyday through SMS to your mobile.">
-    <meta property="og:image" itemprop="image" content="http://covidsms.2bz.in/images/wallpaper.jpg">
+<!-- Facebook Meta Tags -->
+<meta property="og:url" content="http://covidsms.2bz.in">
+<meta property="og:type" content="Website">
+<meta property="og:title" content="Get Covid Updates">
+<meta property="og:description" content="Tarun Acharya: Subscribe and get FREE updates about Covid-19 Cases including active cases, total cases, recovered cases and death cases across the Globe, India and Telangana everyday through SMS to your mobile.">
+<meta name="image" property="og:image" itemprop="image" content="http://covidsms.2bz.in/images/wallpaper.jpg">
 
-    <!-- Twitter Meta Tags -->
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Get Covid Updates">
-    <meta name="twitter:description" content="Tarun Acharya: Subscribe and get FREE updates about Covid-19 Cases including active cases, total cases, recovered cases and death cases across the Globe, India and Telangana everyday through SMS to your mobile.">
-    <meta name="twitter:image" itemprop="image" content="http://covidsms.2bz.in/images/wallpaper.jpg">
+<!-- Twitter Meta Tags -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Get Covid Updates">
+<meta name="twitter:description" content="Tarun Acharya: Subscribe and get FREE updates about Covid-19 Cases including active cases, total cases, recovered cases and death cases across the Globe, India and Telangana everyday through SMS to your mobile.">
+<meta name="twitter:image" content="http://covidsms.2bz.in/images/wallpaper.jpg">
+
+
 
 
 
