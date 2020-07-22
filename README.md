@@ -1,6 +1,6 @@
 
 ## CovidSMS
-A web application that collects the data about the novel coronavirus from notable sources such as worldometers.info[](worldometers.info/coronavirus/) and [https://www.mygov.in/covid-19/](https://www.mygov.in/covid-19/) about the no. of Total, active ,deaths and recovered cases across the Globe, India and Telangana. The application' is made available at covidsms.2bz.in where a user can subscribe with his mobile number to get daily updates.
+A web application that collects the data about the novel coronavirus from notable sources such as [https://worldometers.info/coronavirus/](https://worldometers.info/coronavirus/) and [https://www.mygov.in/covid-19/](https://www.mygov.in/covid-19/) about the no. of Total, active ,deaths and recovered cases across the Globe, India and Telangana. The application' is made available at covidsms.2bz.in where a user can subscribe with his mobile number to get daily updates.
 ### Process Flow
 
  - The user data is collected at the website and sent to the google cloud server of the admin account tarunkodakandla@gmail.com.
